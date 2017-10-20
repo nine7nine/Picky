@@ -7,8 +7,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
-        android:layout_alignParentLeft="true"
-        android:paddingLeft="20dp"
+        android:layout_alignParentStart="true"
+        android:paddingStart="20dp"
         android:textSize="18sp"
         />
 
@@ -22,7 +22,6 @@
         android:textOn="Block"
         android:background="@drawable/check_block"
         android:layout_alignParentTop="true"
-        android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true" />
 
 </RelativeLayout>

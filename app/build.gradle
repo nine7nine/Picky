@@ -7,7 +7,7 @@ model {
 
         defaultConfig {
             applicationId "edu.dartmouth.dwu.picky"
-            minSdkVersion.apiLevel 22
+            minSdkVersion.apiLevel 23
             targetSdkVersion.apiLevel 25
             versionCode 1
             versionName "1.0"

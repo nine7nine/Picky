@@ -8,7 +8,7 @@
         android:textColor="#FFF" android:background="@drawable/round_button_background"
         android:layout_height="25dp"
         android:layout_width="25dp" android:textSize="12sp" android:textStyle="bold"
-        android:layout_gravity="right"
+        android:layout_gravity="end"
         android:id="@+id/rulesListRowButton"
         android:gravity="center" />
 
@@ -16,9 +16,6 @@
         android:id="@+id/rule_list_item_string"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_alignParentLeft="true"
-        android:paddingLeft="20dp"
 
         android:textSize="25sp"
         />

@@ -5,7 +5,7 @@
     tools:context="edu.dartmouth.dwu.picky.CustomTabFragment">
 
     <ListView
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="match_parent"
         android:id="@+id/CustomRulesList"
         android:layout_weight="1"
